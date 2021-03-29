@@ -18,15 +18,19 @@ During analysis evidence of academic misconduct was uncovered that suggested tha
 
 ## District Analysis Results
 Impact of removing Thomas High School ninth graders on:
- - **District Summary**: 
+
+ - **District Summary**:  
+ ![old summary](/Screenshots/Old_District_Summary.PNG)
+ ![new summary](/Screenshots/New_District_Summary.PNG)
  
  - **School Summary**:
- ![old summary](/Screenshots/Old_student_summary.PNG)
- ![new summary](/Screenshots/updated_student_summary.PNG)
- 
+ ![old summary](/Screenshots/School_Summary_Old.PNG)
+ ![new summary](/Screenshots/School_Summary_New.PNG.PNG)
+
+
 
  - **Thomas High School's performance relative to other schools**:
- ![school performance](/Screenshots/Thomas_9_removed_proof.PNG)
+ ![school performance](/Screenshots/New_Thomas_vs_other_schools.PNG)
 
 
  - **Math and reading scores by grade**:
