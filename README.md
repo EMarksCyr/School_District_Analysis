@@ -22,7 +22,7 @@ Impact of removing Thomas High School ninth graders on:
  
  - **School Summary**:
  ![old summary](/Screenshots/Old_student_summary.PNG)
- ![new summary](/Screenshots/New_student_summary.PNG)
+ ![new summary](/Screenshots/updated_student_summary.PNG)
  
 
  - **Thomas High School's performance relative to other schools**:
