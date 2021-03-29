@@ -21,13 +21,34 @@ Impact of removing Thomas High School ninth graders on:
  - **District Summary**: 
  
  - **School Summary**:
- ![old summary] (/Screenshots/Old_student_summary.PNG)
- - **Thomas High School's performance relative to other schools**:
- - **Math and reading scores by grade**:
- - **Scores by school spending**:
- - **Scores by school size **:
- - **Scores by school type**:
+ ![old summary](/Screenshots/Old_student_summary.PNG)
+ ![new summary](/Screenshots/New_student_summary.PNG)
+ 
 
+ - **Thomas High School's performance relative to other schools**:
+ ![school performance](/Screenshots/Thomas_9_removed_proof.PNG)
+
+
+ - **Math and reading scores by grade**:
+![Math scores by grade and school](/Screenshots/Math_scores_by_grade.PNG)
+![Reading scores by grade and school](/Screenshots/Reading_scores_by_grade.PNG)
+![old math means](/Screenshots/Old_math_grade_averages.PNG)
+![new math means](/Screenshots/Updated_math_grade_averages.PNG)
+![old reading means](/Screenshots/Old_reading_grade_averages.PNG)
+![new reading means](/Screenshots/Updated_reading_grade_averages.PNG)
+
+ - **Scores by school spending**:
+![Old scores per spending average](/Screenshots/Old_scores_per_spending_average.PNG)
+![New scores per spending average](/Screenshots/Updated_scores_per_spending_average.PNG)
+
+
+ - **Scores by school size **:
+
+![Old scores per school size](/Screenshots/Old_scores_per_school_size.PNG)
+![New scores per school size](/Screenshots/Updated_scores_per_school_size.PNG)
+ - **Scores by school type**:
+![Old scores per school type](/Screenshots/Old_scores_per_school_type.PNG)
+![New scores per school type](/Screenshots/Updated_scores_per_school_type.PNG)
 
 ## District Analysis Summary
 
