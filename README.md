@@ -60,8 +60,9 @@ After replacing the THS ninth graders, the overall passing % for schools that sp
 ![New scores per spending average](/Screenshots/Updated_scores_per_spending_average.PNG)
 
 
- - **Scores by school size **:
+ - **Scores by school size**:
 Similarly to the school spending analysis, after replacing the THS ninth graders, the overall passing % for medium-sized schools increased from 91% to 92% which suggests that THS is a medium-sized school and pulled the percentage up for its cohort. 
+
 ![Old scores per school size](/Screenshots/Old_scores_per_school_size.PNG)
 ![New scores per school size](/Screenshots/Updated_scores_per_school_size.PNG)
 
