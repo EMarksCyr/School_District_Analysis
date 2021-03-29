@@ -54,7 +54,6 @@ The printed means can be seen below. While the mean grades for all students in g
 ![new reading means](/Screenshots/Updated_reading_grade_averages.PNG)
 
  - **Scores by school spending**:
-
 After replacing the THS ninth graders, the overall passing % for schools that spent $630-644 increased from 63% to 64%. This suggests that THS falls within this spending range and pulled the percentage up for its cohort. 
 
 ![Old scores per spending average](/Screenshots/Old_scores_per_spending_average.PNG)
